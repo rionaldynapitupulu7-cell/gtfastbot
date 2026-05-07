@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # ===== KONFIGURASI =====
-BOT_TOKEN = "8636129984:AAGEKsyFfNkefifZ3wurWTXPtff7IoczEK0"
+BOT_TOKEN = "8636129984:AAEbLUyftsPUyppPriW6I2cXuka15pj_aNc"
 OWNER_IDS = [8695568315]
 ADMIN_IDS = [8695568315]
 TAX_PERCENT = 3
